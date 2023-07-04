@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋🏻, I'm Adam</h1>
-<h3 align="center">Hopefully to be Software Engineer</h3>
+<h3 align="center">Wannabe Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdamBudac&label=Profile%20views&color=0e75b6&style=flat" alt="AdamBudac" /> </p>
 
 - 🔭 ***I’m currently working on:*** Building out my Portfolio
  
 - 🌱 ***I’m currently learning:*** Python and Machine Learning
 
-- ⚡ ***Hobbies:***  Photography, Computers, Workout, Swimming, Badminton
+- ⚡ ***My hobbies are:***  Photography, Computers, Workout, Swimming, Badminton, Hiking, Skiing, Driving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

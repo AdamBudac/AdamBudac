@@ -27,6 +27,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudiocode" width="64" height="64"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/visual-studio.svg" alt="visualstudio" width="64" height="64"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/></a>
+<a href="https://ffmpeg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/ffmpeg-icon.svg" alt="ffmpeg" width="64" height="64"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="windows" width="64" height="64"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="64" height="64"/> </a>
 </p>

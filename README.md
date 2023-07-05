@@ -33,9 +33,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="windows" width="64" height="64"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="64" height="64"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Photoshop_2020.svg/revision/latest?cb=20200617010346" alt="photoshop" width="64" height="64"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/OCmgP__adobe-photoshop-lightroom-cc-icon.svg" alt="lightroom classis" width="64" height="64"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-1430-vector-svg-.svg" alt="premiere pro" width="64" height="64"/> </a>
+<a href="https://www.adobe.com/sk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/6f/Photoshop_2020.svg/revision/latest?cb=20200617010346" alt="photoshop" width="64" height="64"/> </a>
+<a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/OCmgP__adobe-photoshop-lightroom-cc-icon.svg" alt="lightroom classis" width="64" height="64"/> </a>
+<a href="https://www.adobe.com/sk/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-1430-vector-svg-.svg" alt="premiere pro" width="64" height="64"/> </a>
+<a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/A/Audacity-logo-vector-01.svg" alt="audacity" width="64" height="64"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamBudac&show_icons=true&locale=en&layout=compact" alt="AdamBudac" /></p>
 

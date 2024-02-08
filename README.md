@@ -6,7 +6,7 @@
  
 - 🌱 ***I’m currently learning:*** Web Development, Python, Machine Learning
 
-- 👨‍💻 ***All of my projects are available at:*** **[https://github.com/AdamBudac](https://github.com/AdamBudac)** <!-- Personal webpage -->
+- 👨‍💻 ***All of my projects are available at:*** **[adambudac.sk](https://adambudac.sk/)** <!-- Personal webpage -->
 
 - 📫 ***How to reach me:*** **info@adambudac.sk** <!-- Work email -->
 

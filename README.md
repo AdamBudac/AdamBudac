@@ -10,7 +10,7 @@
 
 - 📫 ***How to reach me:*** **info@adambudac.sk** <!-- Work email -->
 
-- 📄 ***Know about my experiences:*** **[EN](https://adambudac.sk/AdamBudac-CV-EN-CurriculumVitae.pdf)/[SK](https://adambudac.sk/AdamBudac-CV-SK-Zivotopis.pdf)**
+- 📄 ***Know about my experiences:*** **[EN](https://adambudac.sk/Media/CV/AdamBudac-CV-EN-CurriculumVitae.pdf)/[SK](https://adambudac.sk/Media/CV/AdamBudac-CV-SK-Zivotopis.pdf)**
 
 - ⚡ ***My hobbies are:***  Photography, Music, IT, Computers, Driving, Workout, Swimming, Badminton, Hiking, Skiing
 

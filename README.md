@@ -39,6 +39,9 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="icons/python.svg" alt="python" width="50" height="50"/></a>
     <a href="https://doc.qt.io/qtforpython-6/" target="_blank"> <img src="icons/qt-original.svg" alt="qt/pyside6" width="50" height="50"/></a>
+    <a href="https://requests.readthedocs.io/en/latest/" target="_blank"> <img src="icons/requests-sidebar.png" alt="requests" height="50"/></a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="icons/beautifulsoup4.png" alt="beautifulsoup4" height="50"/></a>
+    <a href="https://www.selenium.dev/" target="_blank"> <img src="icons/selenium.svg" alt="selenium" width="50" height="50"/></a>
     <a href="https://numpy.org/" target="_blank"> <img src="icons/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="icons/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
     <a href="https://matplotlib.org/" target="_blank"> <img src="icons/matplotlib-1.svg" alt="matplotlib" width="50" height="50"/></a>
@@ -46,8 +49,6 @@
     <a href="https://keras.io/" target="_blank"> <img src="icons/keras-original.svg" alt="keras" width="50" height="50"/></a>
     <a href="https://pytorch.org/" target="_blank"> <img src="icons/pytorch-original.svg" alt="pytorch" width="50" height="50"/></a>
     <a href="https://scikit-learn.org/" target="_blank"> <img src="icons/scikitlearn-original.svg" alt="scikit learn" width="50" height="50"/></a>
-    <a href="https://requests.readthedocs.io/en/latest/" target="_blank"> <img src="icons/requests-sidebar.png" alt="requests" height="50"/></a>
-    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="icons/beautifulsoup4.png" alt="beautifulsoup4" height="50"/></a>
     <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank"> <img src="icons/openpyxl.png" alt="openpyxl" height="50"/></a>
     <!--
     <a href="https://scipy.org/" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="50" height="50"/></a>
@@ -72,7 +73,6 @@
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="icons/spyder-original.svg" alt="spyder" width="50" height="50"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="icons/git-original.svg" alt="git" width="50" height="50"/></a>
     <a href="https://github.com/" target="_blank"> <img src="icons/github-original.svg" alt="github" width="50" height="50"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="icons/Github-desktop-logo-symbol.svg" alt="github desktop" width="50" height="50"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="icons/docker-original.svg" alt="docker" width="50" height="50"/> </a>
     <a href="https://www.portainer.io/" target="_blank"> <img src="icons/portainer-original.svg" alt="portainer" width="50" height="50"/> </a>
     <a href="https://www.vmware.com/" target="_blank"> <img src="icons/vmware-vcenter.png" alt="vmware esxi" width="50" height="50"/> </a>

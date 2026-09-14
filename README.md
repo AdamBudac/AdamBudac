@@ -107,9 +107,6 @@
     <a href="https://obsproject.com/" target="_blank"> <img src="icons/obsstudio.svg" alt="obs studio" width="50" height="50"/></a>
     <a href="https://www.audacityteam.org/" target="_blank"> <img src="icons/Audacity_Logo_nofilter.svg" alt="audacity" width="50" height="50"/></a>
 </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamBudac&show_icons=true&locale=en&layout=compact" alt="AdamBudac" /></p>
-
 <!-- Created with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <!-- Created with https://github.com/devicons/devicon/tree/master -->
 <!-- Created with https://github.com/get-icon/geticon -->

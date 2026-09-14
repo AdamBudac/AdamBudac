@@ -4,7 +4,7 @@
 
 - 🔭 ***I’m currently working on:*** Building out my Portfolio
  
-- 🌱 ***I’m currently learning:*** IT Administration, Web Development, Python, Machine Learning
+- 🌱 ***I’m currently learning:*** IT Administration, Web Development, Python, LLMs
 
 - 👨‍💻 ***All of my projects are available at:*** **[adambudac.sk](https://adambudac.sk/)**
 

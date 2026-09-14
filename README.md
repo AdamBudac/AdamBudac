@@ -111,6 +111,7 @@
 <!-- Created with https://github.com/devicons/devicon/tree/master -->
 <!-- Created with https://github.com/get-icon/geticon -->
 <!-- Created with https://github.com/walkxcode/dashboard-icons -->
+<!-- Created with https://devicons.io/ -->
 <!-- Created with https://www.vectorlogo.zone/ -->
 <!-- Created with https://logosear.ch/search.html -->
 <!-- Created with https://worldvectorlogo.com/ -->
